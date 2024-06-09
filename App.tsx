@@ -1,8 +1,8 @@
-import Home from './src/screens/home'
+import {Home} from './src/screens/home'
 
-export default function App(){
-    return(
-       Home()
+export default function App() {
+    return (
+        Home()
     )
 }
 
